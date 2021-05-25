@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.scss"],"names":[],"mappings":"AACE,kBACE,oBAAa,CAAb,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.f6f86bde.chunk.css","sourcesContent":[".Counter {\n  &__buttons {\n    display: flex;\n    gap: 10px;\n  }\n}\n"]}
